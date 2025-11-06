@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Michela Parma
 
-**Digital Humanist at and Web Developer**
+**Digital Humanist and Web Developer**
 
 I am currently a Digital Humanist at the University of Mainz, in the Department of Medieval History.  
 I completed a Bachelor’s degree in History at the University of Venice in 2017 and obtained a Master’s degree in Digital Humanities and Digital Knowledge at the University of Bologna in 2021.  
