@@ -1,15 +1,11 @@
 ## 👋 Hi, I’m Michela Parma
 
-
 **Digital Humanist at and Web Developer**
 
 I am currently a Digital Humanist at the University of Mainz, in the Department of Medieval History.  
 I completed a Bachelor’s degree in History at the University of Venice in 2017 and obtained a Master’s degree in Digital Humanities and Digital Knowledge at the University of Bologna in 2021.  
 My expertise includes **web development**, the **implementation of databases** that integrate the historical and cultural landscape with modern digital technologies, and the **design of data models** based on ontologies such as **CIDOC CRM**.  
-I build clean, accessible, and creative web experiences using HTML, CSS, JavaScript, and modern frameworks.  
-I publish my work through GitHub Pages — you can explore a selection of live projects below!
-
----
+You can explore a selection of live projects below!
 
 ### My projects
 
